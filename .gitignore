@@ -55,9 +55,4 @@ buck-out/
 # Bundle artifact
 *.jsbundle
 
-apiKey: "AIzaSyAIAdWPCwEkCYwGb91a_7W90mDePnNC5Mo",
-authDomain: "manager-3811b.firebaseapp.com",
-databaseURL: "https://manager-3811b.firebaseio.com",
-projectId: "manager-3811b",
-storageBucket: "",
-messagingSenderId: "891568327125"
+
